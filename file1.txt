@@ -5,3 +5,6 @@ Now the bug is done.
 
 I am fixing the bugA in file1.txt...
 fixing is done.
+
+I am fixing the bugB in the file1.txt...
+fixing is done.
