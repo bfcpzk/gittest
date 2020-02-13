@@ -1,2 +1,4 @@
 first line
 fixed the bug in test branch
+I am fixing the bug in the code.
+Now the bug is done.
