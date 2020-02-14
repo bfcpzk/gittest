@@ -8,3 +8,7 @@ fixing is done.
 
 I am fixing the bugB in the file1.txt...
 fixing is done.
+
+I am fixing the bugC in the file1.txt...
+fixing is done.
+
